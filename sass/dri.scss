@@ -1,12 +1,13 @@
 /*Import the Zen Grids file*/
 @import "zen/_grids.scss";
+@import "zen/_base.scss";
 
-/* Some useful variables*/
-$page_width: 1024px;
+
 
 .dri_body {
-	width: $page_width;
+	color: $body-font-color;
 }
+
 
 .dri_header_container {
   $zen-column-count: 1;

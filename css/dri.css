@@ -2,10 +2,10 @@
 /* Some useful variables*/
 /* line 7, ../sass/dri.scss */
 .dri_body {
-  width: 1024px;
+  color: #444444;
 }
 
-/* line 11, ../sass/dri.scss */
+/* line 12, ../sass/dri.scss */
 .dri_header_container {
   width: 90%;
   margin: 0 auto;
@@ -21,7 +21,7 @@
   clear: both;
 }
 
-/* line 21, ../sass/dri.scss */
+/* line 22, ../sass/dri.scss */
 .header {
   height: 100px;
   font: 14px/190px Helvetica, sans-serif;
@@ -29,7 +29,7 @@
   border: 1px solid white;
 }
 
-/* line 28, ../sass/dri.scss */
+/* line 29, ../sass/dri.scss */
 .header {
   float: left;
   width: 100%;
@@ -44,7 +44,7 @@
   word-wrap: break-word;
 }
 
-/* line 32, ../sass/dri.scss */
+/* line 33, ../sass/dri.scss */
 .container {
   width: 90%;
   margin: 0 auto;
@@ -59,7 +59,7 @@
   clear: both;
 }
 
-/* line 41, ../sass/dri.scss */
+/* line 42, ../sass/dri.scss */
 .one, .two, .three, .four, .five, .six, .seven, .eight {
   height: 200px;
   font: 14px/190px Helvetica, sans-serif;
@@ -67,13 +67,13 @@
   border: 1px solid white;
 }
 
-/* line 48, ../sass/dri.scss */
+/* line 49, ../sass/dri.scss */
 .one, .two {
   height: 100px;
   font: 14px/100px Helvetica, sans-serif;
 }
 
-/* line 53, ../sass/dri.scss */
+/* line 54, ../sass/dri.scss */
 .one {
   float: left;
   width: 100%;
@@ -88,7 +88,7 @@
   word-wrap: break-word;
 }
 
-/* line 57, ../sass/dri.scss */
+/* line 58, ../sass/dri.scss */
 .two {
   clear: left;
   float: left;
@@ -104,7 +104,7 @@
   word-wrap: break-word;
 }
 
-/* line 62, ../sass/dri.scss */
+/* line 63, ../sass/dri.scss */
 .nested {
   float: left;
   width: 33.33333%;
@@ -122,7 +122,7 @@
   background: #ccc;
 }
 
-/* line 68, ../sass/dri.scss */
+/* line 69, ../sass/dri.scss */
 .three {
   float: left;
   width: 33.33333%;
@@ -137,7 +137,7 @@
   word-wrap: break-word;
 }
 
-/* line 72, ../sass/dri.scss */
+/* line 73, ../sass/dri.scss */
 .four {
   float: left;
   width: 33.33333%;
@@ -152,7 +152,7 @@
   word-wrap: break-word;
 }
 
-/* line 76, ../sass/dri.scss */
+/* line 77, ../sass/dri.scss */
 .container2 {
   width: 90%;
   margin: 0 auto;
@@ -168,7 +168,7 @@
   clear: both;
 }
 
-/* line 86, ../sass/dri.scss */
+/* line 87, ../sass/dri.scss */
 .five {
   float: left;
   width: 25%;
@@ -183,7 +183,7 @@
   word-wrap: break-word;
 }
 
-/* line 90, ../sass/dri.scss */
+/* line 91, ../sass/dri.scss */
 .six {
   float: left;
   width: 25%;
@@ -198,7 +198,7 @@
   word-wrap: break-word;
 }
 
-/* line 94, ../sass/dri.scss */
+/* line 95, ../sass/dri.scss */
 .seven {
   float: left;
   width: 25%;
@@ -213,7 +213,7 @@
   word-wrap: break-word;
 }
 
-/* line 98, ../sass/dri.scss */
+/* line 99, ../sass/dri.scss */
 .eight {
   float: left;
   width: 25%;
@@ -229,7 +229,7 @@
 }
 
 @media screen and (max-width: 700px) {
-  /* line 109, ../sass/dri.scss */
+  /* line 110, ../sass/dri.scss */
   .one {
     float: left;
     width: 100%;
@@ -244,7 +244,7 @@
     word-wrap: break-word;
   }
 
-  /* line 113, ../sass/dri.scss */
+  /* line 114, ../sass/dri.scss */
   .two {
     clear: left;
     float: left;
@@ -260,7 +260,7 @@
     word-wrap: break-word;
   }
 
-  /* line 118, ../sass/dri.scss */
+  /* line 119, ../sass/dri.scss */
   .nested {
     clear: left;
     float: left;
@@ -279,7 +279,7 @@
     background: #ccc;
   }
 
-  /* line 125, ../sass/dri.scss */
+  /* line 126, ../sass/dri.scss */
   .three {
     clear: left;
     float: left;
@@ -295,7 +295,7 @@
     word-wrap: break-word;
   }
 
-  /* line 130, ../sass/dri.scss */
+  /* line 131, ../sass/dri.scss */
   .four {
     clear: left;
     float: left;
@@ -311,7 +311,7 @@
     word-wrap: break-word;
   }
 
-  /* line 140, ../sass/dri.scss */
+  /* line 141, ../sass/dri.scss */
   .five, .seven {
     clear: left;
     float: left;
@@ -327,7 +327,7 @@
     word-wrap: break-word;
   }
 
-  /* line 145, ../sass/dri.scss */
+  /* line 146, ../sass/dri.scss */
   .six, .eight {
     float: left;
     width: 50%;
